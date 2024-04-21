@@ -1,0 +1,7 @@
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\Design Pattern\CSV_to_TXT\CSV_to_TXT\bin\Debug\CSV_to_TXT.exe.config
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\Design Pattern\CSV_to_TXT\CSV_to_TXT\bin\Debug\CSV_to_TXT.exe
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\Design Pattern\CSV_to_TXT\CSV_to_TXT\bin\Debug\CSV_to_TXT.pdb
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\Design Pattern\CSV_to_TXT\CSV_to_TXT\obj\Debug\CSV_to_TXT.csproj.AssemblyReference.cache
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\Design Pattern\CSV_to_TXT\CSV_to_TXT\obj\Debug\CSV_to_TXT.csproj.CoreCompileInputs.cache
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\Design Pattern\CSV_to_TXT\CSV_to_TXT\obj\Debug\CSV_to_TXT.exe
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\Design Pattern\CSV_to_TXT\CSV_to_TXT\obj\Debug\CSV_to_TXT.pdb
